@@ -1,0 +1,37 @@
+﻿  pch.cpp
+  Core.cpp
+  Particle.cpp
+  Ray_Tracer_Project.cpp
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Particle.cpp(83,16): warning C4244: 'initializing': conversion from 'double' to 'real', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(42,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(42,52): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(42,52): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(49,10): warning C4778: 'printf' : unterminated format string '%\n'
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(49,43): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(49,43): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(193,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(226,182): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(226,142): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(226,100): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(226,61): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(229,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(229,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(230,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(230,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(231,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(231,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(232,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(232,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(233,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(233,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(234,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(234,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(235,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(235,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(236,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(236,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(237,98): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+  Spring.cpp
+  Generating Code...
+C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Physics Ray Tracer Project 1.0\Ray_Tracer_Project.cpp(237,62): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+  Physics Ray Tracer Project 1.0.vcxproj -> C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\Debug\Physics Ray Tracer Project 1.0.exe

@@ -1,0 +1,26 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\my pc\source\repos\physics ray tracer project 1.0\x64\debug\physics ray tracer project 1.0.exe' is denied.
+  pch.cpp
+  Core.cpp
+  Particle.cpp
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\particle.cpp(83): warning C4244: 'initializing': conversion from 'double' to 'real', possible loss of data
+  Ray_Tracer_Project.cpp
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(42): warning C4778: 'printf' : unterminated format string '%\n'
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(42): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(42): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(49): warning C4778: 'printf' : unterminated format string '%\n'
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(49): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(49): note: placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(193): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(226): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(229): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(230): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(231): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(232): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(233): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(234): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(235): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(236): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+c:\users\my pc\source\repos\physics ray tracer project 1.0\physics ray tracer project 1.0\ray_tracer_project.cpp(237): warning C4244: 'argument': conversion from 'real' to 'int', possible loss of data
+  Spring.cpp
+  Generating Code...
+LINK : fatal error LNK1104: cannot open file 'C:\Users\My Pc\source\repos\Physics Ray Tracer Project 1.0\x64\Debug\Physics Ray Tracer Project 1.0.exe'
